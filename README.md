@@ -9,7 +9,7 @@ Upload Iso_Explorer_Edge_Pro up to v.25.4.(There are beta virsion. They have som
 
 〜Notice  
 If you open an ISO, it also includes the chunk files for recovery, so the data size ends up being about twice as big.  
-If you delete the chunk files, it pretty much goes back to the original ISO file size.
+If you delete the chunk files, it pretty much goes back to the original ISO file size.  
 Once I have incorporated all the features and processing logic I devised, I will carry out bug fixes for the latest version.　　
 
 If you want to know me more, click here⇩  
