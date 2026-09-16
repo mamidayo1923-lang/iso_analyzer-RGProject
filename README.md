@@ -4,7 +4,7 @@ This code was made to check what's inside an ISO file.
 〜Log  
 [2026/09/10 03:08 UTC]  
 Upload Iso_Explorer_Edge_Pro v1~23 & so on.   
-[2026/09/16 03:31 UTC]
+[2026/09/16 03:31 UTC]  
 Upload Iso_Explorer_Edge_Pro up to v.25.4.(There are beta virsion. They have some bug.)  
 
 〜Notice  
